@@ -1,2 +1,2 @@
 # Trust-wallet
-For banking 
+for moving out funds  
